@@ -17,56 +17,55 @@ Actualmente estoy construyendo proyectos con arquitectura de microservicios, int
 
 ### 🖥️ Lenguajes y programación
 ![Java](https://skillicons.dev/icons?i=java)
-![javascript](https://skillicons.dev/icons?i=js)
-![typescript](https://skillicons.dev/icons?i=ts)
-![python](https://skillicons.dev/icons?i=py)
-![csharp](https://skillicons.dev/icons?i=cs)
-![go](https://skillicons.dev/icons?i=go)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![Python](https://skillicons.dev/icons?i=python)
+![C#](https://skillicons.dev/icons?i=cs)
+![Go](https://skillicons.dev/icons?i=go)
 
 ### 🎨 Frontend
-![react](https://skillicons.dev/icons?i=react)
-![angular](https://skillicons.dev/icons?i=angular)
-![html](https://skillicons.dev/icons?i=html)
-![css](https://skillicons.dev/icons?i=css)
-![tailwind](https://skillicons.dev/icons?i=tailwind)
-![bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![React](https://skillicons.dev/icons?i=react)
+![Angular](https://skillicons.dev/icons?i=angular)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
 ### 🔧 Backend y APIs
-![nodejs](https://skillicons.dev/icons?i=nodejs)
-![spring](https://skillicons.dev/icons?i=spring)
-![dotnet](https://skillicons.dev/icons?i=dotnet)
-![flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![fastapi](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![graphql](https://skillicons.dev/icons?i=graphql)
-![socketio](https://img.shields.io/badge/WebSocket-800080?style=flat)
-![webhooks](https://img.shields.io/badge/Webhooks-FF69B4?style=flat)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Spring Boot](https://skillicons.dev/icons?i=spring)
+![DotNet](https://skillicons.dev/icons?i=dotnet)
+![Flask](https://skillicons.dev/icons?i=flask)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![GraphQL](https://skillicons.dev/icons?i=graphql)
+![Socket.io](https://skillicons.dev/icons?i=socketio)
 
 ### 🛢️ Bases de datos
-![postgres](https://skillicons.dev/icons?i=postgres)
-![mysql](https://skillicons.dev/icons?i=mysql)
-![mongodb](https://skillicons.dev/icons?i=mongodb)
-![oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![sqlserver](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![couchdb](https://img.shields.io/badge/CouchDB-EF4645?style=flat&logo=apache-couchdb&logoColor=white)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Oracle](https://skillicons.dev/icons?i=oracle)
+![SQL Server](https://skillicons.dev/icons?i=mssql)
+![CouchDB](https://skillicons.dev/icons?i=couchdb)
 
 ### ☁️ DevOps, Cloud y herramientas
-![docker](https://skillicons.dev/icons?i=docker)
-![aws](https://skillicons.dev/icons?i=aws)
-![githubactions](https://skillicons.dev/icons?i=githubactions)
-![git](https://skillicons.dev/icons?i=git)
+![Docker](https://skillicons.dev/icons?i=docker)
+![AWS](https://skillicons.dev/icons?i=aws)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+![Git](https://skillicons.dev/icons?i=git)
 
-### 💻 Sistemas operativos
-![linux](https://skillicons.dev/icons?i=linux)
-![windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+### 🖥️ Sistemas operativos
+![Linux](https://skillicons.dev/icons?i=linux)
+![Windows](https://skillicons.dev/icons?i=windows)
 
 ---
 
 ## 📚 Actualmente aprendiendo...
 
-![reactnative](https://skillicons.dev/icons?i=react)
-![jenkins](https://skillicons.dev/icons?i=jenkins)
-![angular](https://skillicons.dev/icons?i=angular)
-![nodejs](https://skillicons.dev/icons?i=nodejs)
+![React Native](https://skillicons.dev/icons?i=react)
+![Jenkins](https://skillicons.dev/icons?i=jenkins)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Angular](https://skillicons.dev/icons?i=angular)
 
 ---
 
