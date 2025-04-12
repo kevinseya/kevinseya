@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Kevin Mateo Chancusi Montoya
 
-🎓 Estudiante de Ingeniería en Sistemas • 💻 Desarrollador 
+🎓 Estudiante de Ingeniería en Sistemas • 💻 Desarrollador   
 🚀 Apasionado por los microservicios, sistemas distribuidos y la arquitectura moderna basada en la nube
 
 ---
@@ -35,6 +35,7 @@ Actualmente estoy construyendo proyectos con arquitectura de microservicios, int
 ![nodejs](https://skillicons.dev/icons?i=nodejs)
 ![spring](https://skillicons.dev/icons?i=spring)
 ![dotnet](https://skillicons.dev/icons?i=dotnet)
+![flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![fastapi](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![graphql](https://skillicons.dev/icons?i=graphql)
 ![socketio](https://img.shields.io/badge/WebSocket-800080?style=flat)
@@ -48,11 +49,15 @@ Actualmente estoy construyendo proyectos con arquitectura de microservicios, int
 ![sqlserver](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![couchdb](https://img.shields.io/badge/CouchDB-EF4645?style=flat&logo=apache-couchdb&logoColor=white)
 
-### 🐳 DevOps & Cloud
+### ☁️ DevOps, Cloud y herramientas
 ![docker](https://skillicons.dev/icons?i=docker)
 ![aws](https://skillicons.dev/icons?i=aws)
 ![githubactions](https://skillicons.dev/icons?i=githubactions)
 ![git](https://skillicons.dev/icons?i=git)
+
+### 💻 Sistemas operativos
+![linux](https://skillicons.dev/icons?i=linux)
+![windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 ---
 
