@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Kevin Mateo Chancusi Montoya
 
-🎓 Estudiante de Ingeniería en Sistemas • 💻 Desarrollador Full Stack  
+🎓 Estudiante de Ingeniería en Sistemas • 💻 Desarrollador 
 🚀 Apasionado por los microservicios, sistemas distribuidos y la arquitectura moderna basada en la nube
 
 ---
