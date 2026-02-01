@@ -64,8 +64,9 @@ Actualmente estoy construyendo proyectos con arquitectura de microservicios, int
 
 ![React Native](https://skillicons.dev/icons?i=react)
 ![Jenkins](https://skillicons.dev/icons?i=jenkins)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Angular](https://skillicons.dev/icons?i=angular)
+![Kotlin](https://skillicons.dev/icons?i=kotlin)
+![NestJS](https://skillicons.dev/icons?i=nestjs)
 
 ---
 
