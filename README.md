@@ -1,15 +1,15 @@
 # 👋 ¡Hola! Soy Mateo Chancusi 
 
-🎓 Estudiante de Ingeniería en Sistemas • 💻 Desarrollador   
-🚀 Apasionado por los microservicios, sistemas distribuidos y la arquitectura moderna basada en la nube
+🎓 Egresado de Ingeniería en Sistemas • 💻 Desarrollador   
+🚀 Apasionado por desarrollar sistemas con servicios robustos, seguros y ágiles, sistemas distribuidos y arquitecturas modernas.
 
 ---
 
 ## 🧠 Sobre mí
 
-Soy un desarrollador con experiencia en múltiples lenguajes y frameworks, tanto de frontend como de backend. Me especializo en crear soluciones escalables utilizando buenas prácticas de desarrollo y herramientas modernas.
+Soy un desarrollador con experiencia en múltiples lenguajes y frameworks, tanto de frontend, backend y gestión de bases de datos relacionales y no relacionales. Me especializo en crear soluciones escalables utilizando buenas prácticas de desarrollo y herramientas modernas.
 
-Actualmente estoy construyendo proyectos con arquitectura de microservicios, integración continua y despliegue en la nube como parte de mi formación y desarrollo profesional.
+Actualmente estoy construyendo proyectos con diferentes tipos de arquitecturas, integración continua y despliegue en la nube como parte de mi formación y desarrollo profesional.
 
 ---
 
@@ -30,6 +30,9 @@ Actualmente estoy construyendo proyectos con arquitectura de microservicios, int
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![React Native](https://skillicons.dev/icons?i=react)
+![Angular](https://skillicons.dev/icons?i=angular)
+
 
 ### 🔧 Backend y APIs
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
@@ -62,9 +65,8 @@ Actualmente estoy construyendo proyectos con arquitectura de microservicios, int
 
 ## 📚 Actualmente aprendiendo...
 
-![React Native](https://skillicons.dev/icons?i=react)
+
 ![Jenkins](https://skillicons.dev/icons?i=jenkins)
-![Angular](https://skillicons.dev/icons?i=angular)
 ![Kotlin](https://skillicons.dev/icons?i=kotlin)
 ![NestJS](https://skillicons.dev/icons?i=nestjs)
 
