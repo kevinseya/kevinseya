@@ -22,7 +22,7 @@
 
 ## `$ whoami`
 
-Ingeniero en Sistemas que disfruta construir **servicios robustos, seguros y escalables**: arquitecturas de microservicios, sistemas distribuidos, APIs REST / GraphQL / SOAP / gRPC y frontends modernos. Hoy trabajo en sistemas académicos y en proyectos con integración continua y despliegue en la nube.
+Ingeniero en Sistemas que disfruta construir **servicios robustos, seguros y escalables**: arquitecturas de microservicios, sistemas distribuidos, sistemas monolitos modulares, APIs REST / GraphQL / SOAP / gRPC y frontends modernos. Hoy trabajo en sistemas académicos y en proyectos con integración continua y despliegue en la nube.
 
 <br>
 
